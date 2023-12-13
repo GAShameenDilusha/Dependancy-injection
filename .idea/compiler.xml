@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Property-injection" />
+        <module name="interface-injection" />
+        <module name="Dependeny-injection-intoduction" />
+        <module name="Tight-Coupling" />
+        <module name="setter-method-injection" />
+        <module name="Loose-Coupling" />
+        <module name="constructor-injection" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Dependancy-Injection-Introduction" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
